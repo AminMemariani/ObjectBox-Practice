@@ -5,12 +5,16 @@
   "entities": [
     {
       "id": "1:99634437521229200",
-      "lastPropertyId": "1:8847825638084766259",
+      "lastPropertyId": "2:6301592404317436073",
       "name": "Books",
       "properties": [
         {
           "id": "1:8847825638084766259",
           "name": "id"
+        },
+        {
+          "id": "2:6301592404317436073",
+          "name": "name"
         }
       ],
       "relations": []
