@@ -1,1 +1,1 @@
-<resources>    <string name="app_name">Object Box Practice</string></resources>
+<resources>    <string name="app_name">Object Box Practice</string>    <string name="customer_name">Customer Name</string>    <string name="book_name">Book Name</string>    <string name="submit">Submit</string></resources>

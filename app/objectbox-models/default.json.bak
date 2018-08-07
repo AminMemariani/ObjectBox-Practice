@@ -5,7 +5,7 @@
   "entities": [
     {
       "id": "1:99634437521229200",
-      "lastPropertyId": "2:6301592404317436073",
+      "lastPropertyId": "3:4413341197148647780",
       "name": "Books",
       "properties": [
         {
@@ -14,14 +14,32 @@
         },
         {
           "id": "2:6301592404317436073",
+          "indexId": "1:4550269253720956595",
           "name": "name"
+        },
+        {
+          "id": "3:4413341197148647780",
+          "indexId": "2:3798106243948140151",
+          "name": "customerId"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2:7882945920202078925",
+      "lastPropertyId": "1:6499191792648224095",
+      "name": "Customer",
+      "properties": [
+        {
+          "id": "1:6499191792648224095",
+          "name": "id"
         }
       ],
       "relations": []
     }
   ],
-  "lastEntityId": "1:99634437521229200",
-  "lastIndexId": "0:0",
+  "lastEntityId": "2:7882945920202078925",
+  "lastIndexId": "2:3798106243948140151",
   "lastRelationId": "0:0",
   "lastSequenceId": "0:0",
   "modelVersion": 4,
