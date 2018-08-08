@@ -1,0 +1,1 @@
+package com.example.admin.myapplicationtest.models;import io.objectbox.annotation.Backlink;import io.objectbox.annotation.Entity;import io.objectbox.annotation.Id;import io.objectbox.relation.ToMany;import io.objectbox.relation.ToOne;@Entitypublic class Zoo {    @Id    public long id;    // a Zoo can have many Animals    @Backlink    ToMany<Animal> animals;}
