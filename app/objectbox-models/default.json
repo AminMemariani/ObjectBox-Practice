@@ -60,18 +60,6 @@
           "name": "name"
         },
         {
-          "id": "3:7892235204535174021",
-          "name": "flying"
-        },
-        {
-          "id": "4:4446819871142872763",
-          "name": "swimming"
-        },
-        {
-          "id": "5:960526759390836968",
-          "name": "walking"
-        },
-        {
           "id": "6:166565980727306036",
           "indexId": "4:1185264316552554422",
           "name": "zooId"
@@ -104,7 +92,11 @@
   "modelVersionParserMinimum": 4,
   "retiredEntityUids": [],
   "retiredIndexUids": [],
-  "retiredPropertyUids": [],
+  "retiredPropertyUids": [
+    7892235204535174021,
+    4446819871142872763,
+    960526759390836968
+  ],
   "retiredRelationUids": [],
   "version": 1
 }
